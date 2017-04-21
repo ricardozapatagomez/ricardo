@@ -1,0 +1,19 @@
+C:\Users\Ricardo\Desktop\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Ricardo\Desktop\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Ricardo\Desktop\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Ricardo\Desktop\ejercicio1\ejercicio1\bin\Debug\ClassLibrary1.dll
+C:\Users\Ricardo\Desktop\ejercicio1\ejercicio1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ricardo\Desktop\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Ricardo\Desktop\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\Nueva carpeta\ejercicioClases-master\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\Nueva carpeta\ejercicioClases-master\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\Nueva carpeta\ejercicioClases-master\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\Nueva carpeta\ejercicioClases-master\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\Nueva carpeta\ejercicioClases-master\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\Nueva carpeta\ejercicioClases-master\ejercicio1\ejercicio1\bin\Debug\ClassLibrary1.dll
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\Nueva carpeta\ejercicioClases-master\ejercicio1\ejercicio1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\Nueva carpeta\ejercicioClases-master\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Ricardo\Desktop\cicloV\programacion1\Tarea\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
